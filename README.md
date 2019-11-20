@@ -1,5 +1,5 @@
--welcome to DggJs
--Description :
+-welcome to <p style='color:blue'>DggJs</p></br>
+-Description :</br>
 {
 this files help you create_
 basic html game directly_
